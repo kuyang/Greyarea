@@ -1,0 +1,30 @@
+{
+  "name": "greyareadc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "8.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "superagent": "^4.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuyang/Greyarea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kuyang/Greyarea/issues"
+  },
+  "homepage": "https://github.com/kuyang/Greyarea#readme",
+  "description": ""
+}
